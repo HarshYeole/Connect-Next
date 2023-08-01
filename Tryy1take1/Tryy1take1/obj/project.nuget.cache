@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zKsDLB/fM4enPQ75knnkxiurUmxmqHihh6b2Pza88U1madvPJWEiR+C7vr9Z5Zg8+zbxoTsUHVcOreCFgCcmGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yeole\\source\\repos\\Tryy1take1\\Tryy1take1\\Tryy1take1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yeole\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\yeole\\.nuget\\packages\\zxing.net\\0.16.9\\zxing.net.0.16.9.nupkg.sha512"
+  ],
+  "logs": []
+}

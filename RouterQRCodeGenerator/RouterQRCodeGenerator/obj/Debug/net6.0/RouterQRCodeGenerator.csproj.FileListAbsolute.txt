@@ -1,0 +1,5 @@
+C:\Users\yeole\source\repos\RouterQRCodeGenerator\RouterQRCodeGenerator\obj\Debug\net6.0\RouterQRCodeGenerator.csproj.AssemblyReference.cache
+C:\Users\yeole\source\repos\RouterQRCodeGenerator\RouterQRCodeGenerator\obj\Debug\net6.0\RouterQRCodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeole\source\repos\RouterQRCodeGenerator\RouterQRCodeGenerator\obj\Debug\net6.0\RouterQRCodeGenerator.AssemblyInfoInputs.cache
+C:\Users\yeole\source\repos\RouterQRCodeGenerator\RouterQRCodeGenerator\obj\Debug\net6.0\RouterQRCodeGenerator.AssemblyInfo.cs
+C:\Users\yeole\source\repos\RouterQRCodeGenerator\RouterQRCodeGenerator\obj\Debug\net6.0\RouterQRCodeGenerator.csproj.CoreCompileInputs.cache

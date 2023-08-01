@@ -1,0 +1,11 @@
+C:\Users\yeole\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Hello.csproj.AssemblyReference.cache
+C:\Users\yeole\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Hello.csproj.SuggestedBindingRedirects.cache
+C:\Users\yeole\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\yeole\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\yeole\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\yeole\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\yeole\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\yeole\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\yeole\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Form1.resources
+C:\Users\yeole\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Hello.csproj.GenerateResource.cache
+C:\Users\yeole\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Form3.resources

@@ -1,0 +1,6 @@
+C:\Users\yeole\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\yeole\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.SuggestedBindingRedirects.cache
+C:\Users\yeole\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\RouterQRCodeGenerator.Program.resources
+C:\Users\yeole\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\yeole\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\yeole\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache

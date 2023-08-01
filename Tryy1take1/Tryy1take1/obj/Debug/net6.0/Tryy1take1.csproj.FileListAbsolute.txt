@@ -1,0 +1,5 @@
+C:\Users\yeole\source\repos\Tryy1take1\Tryy1take1\obj\Debug\net6.0\Tryy1take1.csproj.AssemblyReference.cache
+C:\Users\yeole\source\repos\Tryy1take1\Tryy1take1\obj\Debug\net6.0\Tryy1take1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeole\source\repos\Tryy1take1\Tryy1take1\obj\Debug\net6.0\Tryy1take1.AssemblyInfoInputs.cache
+C:\Users\yeole\source\repos\Tryy1take1\Tryy1take1\obj\Debug\net6.0\Tryy1take1.AssemblyInfo.cs
+C:\Users\yeole\source\repos\Tryy1take1\Tryy1take1\obj\Debug\net6.0\Tryy1take1.csproj.CoreCompileInputs.cache

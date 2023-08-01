@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t9B3Ih3phITc9MR7BH5Z80UGYgPvW69rIdwH8sn+ACZE9dfjcTu3kaj1t3Z8e7E0IhcPqQWs0sDKU2xdTmomgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yeole\\source\\repos\\RouterQRCodeGenerator\\RouterQRCodeGenerator\\RouterQRCodeGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yeole\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
